@@ -3,13 +3,17 @@
 
 I specialize in **full-stack development** and **open-source contributions**, working with technologies like **MERN**, **Next.js**, , and more. I love creating scalable web applications and collaborating on impactful projects.
 
-- 🔭 I’m currently working on [Techfest](https://github.com/Someshog/tcwebsite25-)
+- 🔭 I’m currently working on [Techvibes](https://github.com/Someshog/tcwebsite25-)
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - 📫 How to reach me **workwithsomesh1@gmail.com**
 
-
+### GSSOC(24) Badges
+<div style='display:flex'><a href="https://gssoc.girlscript.tech/leaderboard">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  </a>
+</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/someshog) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/somesh-goyal) 
