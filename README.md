@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Somesh Goyal</h1>
 <h3 align="center">Full-Stack Developer | Open-Source Enthusiast</h3>
 
-I specialize in **full-stack development** and **open-source contributions**, working with technologies like **MERN**, **Next.js**, , and more. I love creating scalable web applications and collaborating on impactful projects.
+I specialize in **full-stack development** and **open-source contributions**, working with technologies like **MERN**, **Next.js**, and more. 
+I love creating scalable web applications and collaborating on impactful projects.
 
 - 🔭 I’m currently working on [Techvibes](https://github.com/Someshog/tcwebsite25-)
 
