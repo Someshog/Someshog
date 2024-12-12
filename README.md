@@ -4,7 +4,7 @@
 I specialize in **full-stack development** and **open-source contributions**, working with technologies like **MERN**, **Next.js**, and more. 
 I love creating scalable web applications and collaborating on impactful projects.
 
-- 🔭 I’m currently working on [Techvibes](https://github.com/Someshog/tcwebsite25-)
+- 🔭 I’m currently working at [Techvibes](https://github.com/Someshog/tcwebsite25-)
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
