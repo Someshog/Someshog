@@ -9,7 +9,7 @@ I love creating scalable web applications and collaborating on impactful project
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - 📫 How to reach me **workwithsomesh1@gmail.com**
-### Badges
+## 🏅 Badges
 | <a href="https://gssoc.girlscript.tech/leaderboard"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="110px" height="110px"></a> | <a href="https://holopin.io/@somesh_goyal"><img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-tea-hoodie-witch-eclipse.webp" width="120px" height="120px"></a> |
 |---|---|
 | **[GSSoC Leaderboard](https://gssoc.girlscript.tech/leaderboard)** | **[Holopin Badges](https://holopin.io/@somesh_goyal)** |
