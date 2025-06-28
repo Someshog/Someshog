@@ -1,11 +1,9 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=1&pause=1000&color=f75c7e&repeat=false&width=435&lines=Somesh+Goyal" alt="Typing SVG" /></a>
-</p>
+<div align="center" style="line-height: -1;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=1&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=false&width=600&lines=Somesh+Goyal" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=false&width=650&lines=Hey,+Welcome+to+my+GitHub!" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=1000&color=f75c7e&repeat=false&width=537&lines=Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
-</p>
-
+---
 
 🔭 Web Developer [@Techvibes](https://github.com/Someshog/tcwebsite25-), my college’s annual fest
 
