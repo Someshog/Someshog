@@ -42,8 +42,36 @@
 
 ### 📈 GitHub Contribution Overview
 <p align="center">
-  <img width="700" src="https://github-contributor-stats.vercel.app/api?username=Someshog&limit=5&theme=default&combine_all_yearly_contributions=true" />
+  <img width="450" src="https://github-contributor-stats.vercel.app/api?username=Someshog&limit=5&theme=default&combine_all_yearly_contributions=true" />
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
+## 🌟 Notable Repositories
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/Someshog/Breast-cancer-flask-app">
+        <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Someshog&repo=Breast-cancer-flask-app&theme=default&bg_color=ffffff&title_color=0f4c75&hide_border=true&icon_color=3282b8&show_icons=true" alt="Breast Cancer Flask App" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Someshog/MuseBot-SIH-24">
+        <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Someshog&repo=MuseBot-SIH-24&theme=default&bg_color=ffffff&title_color=0f4c75&hide_border=true&icon_color=3282b8&show_icons=true" alt="MuseBot-SIH-24" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Someshog/tcwebsite25-">
+        <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Someshog&repo=tcwebsite25-&theme=default&bg_color=ffffff&title_color=0f4c75&hide_border=true&icon_color=3282b8&show_icons=true" alt="TechVibes 2025 Website" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" style="padding-top: 15px;">
+      <a href="https://github.com/Someshog?tab=repositories">
+        <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-ffffff?style=for-the-badge&logoColor=black&logo=repo"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
