@@ -14,11 +14,11 @@
 </div>
 <br/>
 
-🎓 3rd Year Computer Science Engineering Student at Birla Institute of Technology, Mesra
+#### 🎓 3rd Year Computer Science Engineering Student at Birla Institute of Technology, Mesra
 
-🔬 Research Intern in Advanced Machine Intelligence & Data Analytics at MNIT, Jaipur (Present)
+#### 🔬 Research Intern in Advanced Machine Intelligence & Data Analytics at MNIT, Jaipur (Present)
 
-🤖 WebDev + AI: Combining FullStack skills with machine learning backends.
+#### 🤖 WebDev + AI: Combining FullStack skills with machine learning backends.
 
 
 
