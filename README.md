@@ -1,16 +1,18 @@
-<h1 align="center">Hey, I'm Somesh Goyal</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=1&pause=1000&color=f75c7e&repeat=false&width=435&lines=Somesh+Goyal" alt="Typing SVG" /></a>
+</p>
 
-<h3 align="center">🌟 Welcome to my profile! 🌟</h2>
-<h3 align="center">Full-Stack Developer | Open-Source Enthusiast</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=1000&color=f75c7e&repeat=false&width=537&lines=Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
+</p>
 
-I specialize in **full-stack development** and **open-source contributions**, working with technologies like **MERN**, **Next.js**, and more. 
-I love creating scalable web applications and collaborating on impactful projects.
 
-- 🔭 I’m currently working at [Techvibes](https://github.com/Someshog/tcwebsite25-)
+🔭 Web Developer [@Techvibes](https://github.com/Someshog/tcwebsite25-), my college’s annual fest
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
+🌱 I’m currently learning **AI/ML**, **Data Structures & Algorithms**
 
-- 📫 How to reach me **workwithsomesh1@gmail.com**
+📫 How to reach me **workwithsomesh1@gmail.com**
+
 ## 🏅 Badges
 | <a href="https://gssoc.girlscript.tech/leaderboard"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="110px" height="110px"></a> | <a href="https://holopin.io/@somesh_goyal"><img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-tea-hoodie-witch-eclipse.webp" width="120px" height="120px"></a> |
 |---|---|
