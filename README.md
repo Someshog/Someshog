@@ -1,6 +1,6 @@
 <div align="center" style="line-height: -1;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=1&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=false&width=600&lines=Somesh+Goyal" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=false&width=650&lines=Hey,+Welcome+to+my+GitHub+👋" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=1&pause=1000&color=F7F7F7FF&center=true&vCenter=true&repeat=false&width=600&lines=Somesh+Goyal" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=F7F7F7FF&center=true&vCenter=true&repeat=false&width=650&lines=Hey,+Welcome+to+my+GitHub+👋" alt="Typing SVG" />
   <!-- Social icons section -->
   <p align="center">
   <a href="https://www.linkedin.com/in/somesh-goyal"><img width="32px" alt="Somesh's LinkedIn" title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/></a>
@@ -13,14 +13,13 @@
 </p>
 </div>
 <br/>
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 🎓 3rd Year Computer Science Engineering Student at Birla Institute of Technology, Mesra
 
 🔬 Research Intern in Advanced Machine Intelligence & Data Analytics at MNIT, Jaipur (Present)
 
 🤖 WebDev + AI: Combining FullStack skills with machine learning backends.
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ### 🏅 Badges
 | <a href="https://gssoc.girlscript.tech/leaderboard"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="110px" height="110px"></a> | <a href="https://holopin.io/@somesh_goyal"><img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-tea-hoodie-witch-eclipse.webp" width="120px" height="120px"></a> |
