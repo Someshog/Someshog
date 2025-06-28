@@ -23,9 +23,8 @@
 
 
 ## 🏅 Badges
-| <a href="https://gssoc.girlscript.tech/leaderboard"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px"></a> | <a href="https://holopin.io/@somesh_goyal"><img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-tea-hoodie-witch-eclipse.webp" width="100px" height="100px"></a> |
-|---|---|
-| **[GSSoC Leaderboard](https://gssoc.girlscript.tech/leaderboard)** | **[Holopin Badges](https://holopin.io/@somesh_goyal)** |
+<a href="https://gssoc.girlscript.tech/leaderboard"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="110px" height="110px"></a> <a href="https://holopin.io/@somesh_goyal"><img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-tea-hoodie-witch-eclipse.webp" width="100px" height="100px"></a>
+
 
 
 
@@ -37,7 +36,7 @@
 <p align="center">
   <img width="319" src="https://github-readme-stats.vercel.app/api?username=Someshog&theme=default&hide_border=true&include_all_commits=false&count_private=false" />
   <img width="350" src="https://github-readme-streak-stats.herokuapp.com?user=Someshog&theme=default&hide_border=true" />
-  <img width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Someshog&theme=default&hide_border=true&layout=compact" />
+  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Someshog&theme=default&hide_border=true&layout=compact" />
 </p>
 
 
