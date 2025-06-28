@@ -40,10 +40,10 @@
 </p>
 
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Someshog&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Someshog&icon=0&color=0)](https://visitcount.itsvg.in)
+### 📈 GitHub Contribution Overview
+<p align="center">
+  <img width="700" src="https://github-contributor-stats.vercel.app/api?username=Someshog&limit=5&theme=default&combine_all_yearly_contributions=true" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
