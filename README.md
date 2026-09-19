@@ -14,11 +14,11 @@
 <br/>
 
 
-<a href="https://holopin.io/@somesh_goyal"><img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-tea-hoodie-witch-eclipse.webp" height="100" alt="Hacktoberfest Holopin Badge" /></a>
+<a href="https://holopin.io/@somesh_goyal"><img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-tea-hoodie-witch-eclipse.webp" height="110" alt="Hacktoberfest Holopin Badge" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/881642ab-a8e5-4176-80af-ece8c988140a/public_url"><img src="https://images.credly.com/size/340x340/images/247efe36-9fa6-4209-ad56-0fd522283872/blob" height="110" alt="AWS Educate ML Foundations" /></a>
+<a href="https://www.credly.com/badges/881642ab-a8e5-4176-80af-ece8c988140a/public_url"><img src="AWS-Badge.png" height="110" alt="AWS Educate ML Foundations" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/5ba73764-fa4a-44d2-ae51-b7f7b223612b/public_url"><img src="https://images.credly.com/size/340x340/images/94f4180f-4139-4529-9cd1-c5ae95b12f5f/blob" height="100" alt="McKinsey.org Forward Program" /></a>
+<a href="https://www.credly.com/badges/5ba73764-fa4a-44d2-ae51-b7f7b223612b/public_url"><img src="https://images.credly.com/size/340x340/images/94f4180f-4139-4529-9cd1-c5ae95b12f5f/blob" height="110" alt="McKinsey.org Forward Program" /></a>
 
 </div>
 
