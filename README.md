@@ -1,77 +1,133 @@
-<div align="center" style="line-height: -1;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=1&pause=1000&color=F7F7F7FF&center=true&vCenter=true&repeat=false&width=600&lines=Somesh+Goyal" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=F7F7F7FF&center=true&vCenter=true&repeat=false&width=650&lines=Hey,+Welcome+to+my+GitHub+👋" alt="Typing SVG" />
-  <!-- Social icons section -->
-  <p align="center">
-  <a href="https://www.linkedin.com/in/somesh-goyal"><img width="32px" alt="Somesh's LinkedIn" title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/someshog" alt="Discord" title="Somesh's Discord"><img width="32px" src="https://skillicons.dev/icons?i=discord"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
- <a href="mailto:workwithsomesh1@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="32">
-</a>
-</p>
-</div>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=1&pause=1000&color=F7F7F7FF&center=true&vCenter=true&repeat=false&width=600&lines=Somesh+Goyal" alt="Somesh Goyal" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=false&width=650&lines=Full-stack+%C2%B7+Salesforce+%C2%B7+ML+%C2%B7+Open+source" alt="tagline" />
+
 <br/>
 
-#### 🎓 3rd Year Computer Science Engineering Student at Birla Institute of Technology, Mesra
+<a href="https://someshgoyal.dev"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/somesh-goyal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/Soal10/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="mailto:goyal.somesh10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://discord.gg/someshog"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 
-#### 🔬 Research Intern in Advanced Machine Intelligence & Data Analytics at MNIT, Jaipur (May-July 2025)
-
-#### 🤖 WebDev + AI: Combining FullStack skills with machine learning backends.
-
-
-
-## 🏅 Badges
-<a href="https://gssoc.girlscript.tech/leaderboard"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="110px" height="110px"></a> <a href="https://holopin.io/@somesh_goyal"><img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-tea-hoodie-witch-eclipse.webp" width="100px" height="100px"></a>
+<br/>
 
 
+<a href="https://holopin.io/@somesh_goyal"><img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-tea-hoodie-witch-eclipse.webp" height="100" alt="Hacktoberfest Holopin Badge" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/881642ab-a8e5-4176-80af-ece8c988140a/public_url"><img src="https://images.credly.com/size/340x340/images/247efe36-9fa6-4209-ad56-0fd522283872/blob" height="110" alt="AWS Educate ML Foundations" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/5ba73764-fa4a-44d2-ae51-b7f7b223612b/public_url"><img src="https://images.credly.com/size/340x340/images/94f4180f-4139-4529-9cd1-c5ae95b12f5f/blob" height="100" alt="McKinsey.org Forward Program" /></a>
 
+</div>
 
-## 💻 Tech Stack
+<br/>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+```text
+~/somesh $ whoami
+CS undergrad @ BIT Mesra  ·  CGPA 9.17
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img width="319" src="https://github-readme-stats.vercel.app/api?username=Someshog&theme=default&hide_border=true&include_all_commits=false&count_private=false" />
-  <img width="350" src="https://github-readme-streak-stats.herokuapp.com?user=Someshog&theme=default&hide_border=true" />
-  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Someshog&theme=default&hide_border=true&layout=compact" />
-</p>
+~/somesh $ cat now.txt
+building    → React / Next.js apps, Salesforce (LWC, Apex, Flows)
+learning    → Cloud Computing, applied ML, Data Structures
+open to     → open-source collaborations, Internships
+ask me      → Development Methodologies & SDLC
 
+~/somesh $ cat experience.txt
+2026  Salesforce Admin Intern   MTX Group Inc.
+2025  Research Intern           Malaviya National Institute of Technology, Jaipur (Raman Labs)
+2024  Open-Source Contributor   GSSoC & Hacktoberfest
+2024  Hackathon Innovator       Smart India Hackathon
+```
 
-### 📈 GitHub Contribution Overview
-<p align="center">
-  <img width="450" src="https://github-contributor-stats.vercel.app/api?username=Someshog&limit=5&theme=default&combine_all_yearly_contributions=true" />
-</p>
+<br/>
 
-## 🌟 Notable Repositories
-<table align="center">
+## ⚙️ Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css,react,nextjs,nodejs,express,tailwind,redux,vite,threejs,firebase,mongodb,mysql,docker,aws,gcp,vercel,git,github,postman,figma,bootstrap,npm,canva&theme=dark&perline=10" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+
+</div>
+
+<br/>
+
+## ✦ Selected Work
+
+| # | Project | What it does | Tech | Link |
+|:-:|---|---|---|:-:|
+| 1 | **Auction Hall** ⭐ | Real-time hackathon team auctions with live bidding, built in a 24-hour round | React, Tailwind, Firebase | [Repo](https://github.com/Someshog/Auction-Hall) <!-- verify --> |
+| 2 | **Spot the Greenwash** ⭐ | Zero-shot NLP tool that flags misleading sustainability claims | Python, NLP | [Repo](https://github.com/Someshog/Spot-the-Greenwash) <!-- verify --> |
+| 3 | **Breast Cancer Classifier** ⭐ | Breast cancer classification web app from MNIT research work | Python, Flask, ML | [Repo](https://github.com/Someshog/Breast-cancer-flask-app) |
+| 4 | **MuseBot** ⭐ | Conversational ticket-booking system with integrated payments, under 1 min per booking (Smart India Hackathon) | Node.js, NLP | [Repo](https://github.com/Someshog/MuseBot-SIH-24) |
+| 5 | **Personal Finance Dashboard** | Transactions, filtering, sorting, pagination, CSV/XLSX import | Next.js | [Repo](https://github.com/Someshog/Personal-Finance-Dashboard) <!-- verify --> |
+| 6 | **TechVibes 2025 Website** | Official fest website: 150+ registrations, sponsor forms, live event updates | React, Node.js | [Repo](https://github.com/Someshog/tcwebsite25-) |
+| 7 | **Exam Management System** | Randomized exams and attempt tracking on Salesforce | LWC, Apex, Flows | Private (work project) |
+
+<sub>⭐ = featured above &nbsp;·&nbsp; <a href="https://github.com/Someshog?tab=repositories">Browse all repositories →</a></sub>
+
+<br/>
+
+## 🌍 Open Source
+
+> Contributed to **10+ projects** through GSSoC and Hacktoberfest (performance, API integration, bug fixes). Looking to do more.
+
+**I can help with:** React / Next.js / Node bug fixes · API integration issues · docs and onboarding · ML / NLP experiments
+
+**Reach me:** open an issue, or message me on [LinkedIn](https://www.linkedin.com/in/somesh-goyal) or by [email](mailto:goyal.somesh10@gmail.com).
+
+<br/>
+
+## 🏆 Highlights
+
+<div align="center">
+
+<table>
   <tr>
-    <td>
-      <a href="https://github.com/Someshog/Breast-cancer-flask-app">
-        <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Someshog&repo=Breast-cancer-flask-app&theme=default&bg_color=ffffff&title_color=0f4c75&hide_border=true&icon_color=3282b8&show_icons=true" alt="Breast Cancer Flask App" />
-      </a>
+    <td align="center" width="200">
+      <b>Battle of Bytes</b><br/>
+      <sub>Runner-up<br/>Top 2 of 15 teams</sub>
     </td>
-    <td>
-      <a href="https://github.com/Someshog/MuseBot-SIH-24">
-        <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Someshog&repo=MuseBot-SIH-24&theme=default&bg_color=ffffff&title_color=0f4c75&hide_border=true&icon_color=3282b8&show_icons=true" alt="MuseBot-SIH-24" />
-      </a>
+    <td align="center" width="200">
+      <b>Smart India Hackathon</b><br/>
+      <sub>Top 25<br/>Internal round</sub>
     </td>
-    <td>
-      <a href="https://github.com/Someshog/tcwebsite25-">
-        <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Someshog&repo=tcwebsite25-&theme=default&bg_color=ffffff&title_color=0f4c75&hide_border=true&icon_color=3282b8&show_icons=true" alt="TechVibes 2025 Website" />
-      </a>
+    <td align="center" width="200">
+      <b>200+ Problems</b><br/>
+      <sub>Solved on LeetCode<br/>DSA &amp; algorithms</sub>
     </td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center" style="padding-top: 15px;">
-      <a href="https://github.com/Someshog?tab=repositories">
-        <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-ffffff?style=for-the-badge&logoColor=black&logo=repo"/>
-      </a>
+    <td align="center" width="200">
+      <b>CGPA 9.17</b><br/>
+      <sub>B.Tech CSE<br/>🎓 BIT Mesra</sub>
     </td>
   </tr>
 </table>
 
+</div>
 
+<br/>
 
+## 📊 Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=Someshog&theme=dark&hide_border=true&include_all_commits=true&count_private=false" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Someshog&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+<br/>
+<img height="165" src="https://streak-stats.demolab.com/?user=Someshog&theme=dark&hide_border=true" />
+<img height="165" src="https://github-contributor-stats.vercel.app/api?username=Someshog&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+
+<br/><br/>
+
+<sub>⭐ Maintaining a project and need a contributor? Let's talk.</sub>
+
+</div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
