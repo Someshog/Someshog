@@ -3,26 +3,42 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=1&pause=1000&color=F7F7F7FF&center=true&vCenter=true&repeat=false&width=600&lines=Somesh+Goyal" alt="Somesh Goyal" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=false&width=650&lines=Full-stack+%C2%B7+Salesforce+%C2%B7+ML+%C2%B7+Open+source" alt="tagline" />
 
-<a href="https://someshgoyal.dev"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a> <a href="https://leetcode.com/u/Soal10/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<br/>
+<div>
+  
+<a href="https://someshgoyal.dev"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://leetcode.com/u/Soal10/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://discord.gg/someshog"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> 
+</div>
+
+<br/>
+
+
+<a href="https://holopin.io/@somesh_goyal"><img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-tea-hoodie-witch-eclipse.webp" height="110" alt="Hacktoberfest Holopin Badge" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/881642ab-a8e5-4176-80af-ece8c988140a/public_url"><img src="AWS-Badge.png" height="110" alt="AWS Educate ML Foundations" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/5ba73764-fa4a-44d2-ae51-b7f7b223612b/public_url"><img src="https://images.credly.com/size/340x340/images/94f4180f-4139-4529-9cd1-c5ae95b12f5f/blob" height="110" alt="McKinsey.org Forward Program" /></a>
+
 </div>
 
 <br/>
 
 ```text
 ~/somesh $ whoami
-CS undergrad @ BIT Mesra  ·  CGPA 9.17
+CS undergrad @ BIT Mesra  ·  CGPA 9.17
 
 ~/somesh $ cat now.txt
-building    → React / Next.js apps, Salesforce (LWC, Apex, Flows)
-learning    → Cloud Computing, applied ML, Data Structures
-open to     → open-source collaborations, Internships
-ask me      → Development Methodologies & SDLC
+building    → React / Next.js apps, Salesforce (LWC, Apex, Flows)
+learning    → Cloud Computing, applied ML, Data Structures
+open to     → open-source collaborations, Internships
+ask me      → Development Methodologies & SDLC
 
 ~/somesh $ cat experience.txt
-2026  Salesforce Admin Intern   MTX Group Inc.
-2025  Research Intern           Malaviya National Institute of Technology, Jaipur (Raman Labs)
-2024  Open-Source Contributor   GSSoC & Hacktoberfest
-2024  Hackathon Innovator       Smart India Hackathon
+2026  Salesforce Admin Intern   MTX Group Inc.
+2025  Research Intern           Malaviya National Institute of Technology, Jaipur (Raman Labs)
+2024  Open-Source Contributor   GSSoC & Hacktoberfest
+2024  Hackathon Innovator       Smart India Hackathon
 ```
 
 <br/>
@@ -74,24 +90,24 @@ ask me      → Development Methodologies & SDLC
 <div align="center">
 
 <table>
-  <tr>
-    <td align="center" width="200">
-      <b>Battle of Bytes</b><br/>
-      <sub>Runner-up<br/>Top 2 of 15 teams</sub>
-    </td>
-    <td align="center" width="200">
-      <b>Smart India Hackathon</b><br/>
-      <sub>Top 25<br/>Internal round</sub>
-    </td>
-    <td align="center" width="200">
-      <b>200+ Problems</b><br/>
-      <sub>Solved on LeetCode<br/>DSA &amp; algorithms</sub>
-    </td>
-    <td align="center" width="200">
-      <b>CGPA 9.17</b><br/>
-      <sub>B.Tech CSE<br/>🎓 BIT Mesra</sub>
-    </td>
-  </tr>
+  <tr>
+    <td align="center" width="200">
+      <b>Battle of Bytes</b><br/>
+      <sub>Runner-up<br/>Top 2 of 15 teams</sub>
+    </td>
+    <td align="center" width="200">
+      <b>Smart India Hackathon</b><br/>
+      <sub>Top 25<br/>Internal round</sub>
+    </td>
+    <td align="center" width="200">
+      <b>200+ Problems</b><br/>
+      <sub>Solved on LeetCode<br/>DSA &amp; algorithms</sub>
+    </td>
+    <td align="center" width="200">
+      <b>CGPA 9.17</b><br/>
+      <sub>B.Tech CSE<br/>🎓 BIT Mesra</sub>
+    </td>
+  </tr>
 </table>
 
 </div>
@@ -115,3 +131,4 @@ ask me      → Development Methodologies & SDLC
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+make upper in one line portfolio leetcode
