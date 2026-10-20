@@ -3,23 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=1&pause=1000&color=F7F7F7FF&center=true&vCenter=true&repeat=false&width=600&lines=Somesh+Goyal" alt="Somesh Goyal" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=false&width=650&lines=Full-stack+%C2%B7+Salesforce+%C2%B7+ML+%C2%B7+Open+source" alt="tagline" />
 
-<br/>
-
-<a href="https://someshgoyal.dev"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/somesh-goyal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
-<a href="https://leetcode.com/u/Soal10/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-<!-- <a href="mailto:goyal.somesh10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> -->
-<a href="https://discord.gg/someshog"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-
-<br/>
-
-
-<a href="https://holopin.io/@somesh_goyal"><img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-tea-hoodie-witch-eclipse.webp" height="110" alt="Hacktoberfest Holopin Badge" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/881642ab-a8e5-4176-80af-ece8c988140a/public_url"><img src="AWS-Badge.png" height="110" alt="AWS Educate ML Foundations" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/5ba73764-fa4a-44d2-ae51-b7f7b223612b/public_url"><img src="https://images.credly.com/size/340x340/images/94f4180f-4139-4529-9cd1-c5ae95b12f5f/blob" height="110" alt="McKinsey.org Forward Program" /></a>
-
+<a href="https://someshgoyal.dev"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a> <a href="https://leetcode.com/u/Soal10/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </div>
 
 <br/>
